@@ -1,0 +1,49 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"deps/glew/build/cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "visualinfo::@04fb83b81ee7ddcba9ed"
+		},
+		{
+			"id" : "glewinfo::@04fb83b81ee7ddcba9ed"
+		},
+		{
+			"id" : "glew_s::@04fb83b81ee7ddcba9ed"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "glew::@04fb83b81ee7ddcba9ed"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@04fb83b81ee7ddcba9ed",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "deps/glew/build/cmake",
+		"source" : "deps/glew/build/cmake"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

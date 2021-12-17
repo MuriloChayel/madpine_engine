@@ -1,0 +1,115 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "clipboard::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "events::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "msaa::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "game::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "glfwinfo::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "iconify::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "monitors::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "reopen::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "glfw::@c7b1059c348ca70b25fe"
+		},
+		{
+			"id" : "timeout::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "inputlag::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "triangle-vulkan::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "opacity::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "joysticks::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "tearing::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "icon::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "gamma::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "cursor::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "empty::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "title::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "threads::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "visualinfo::@04fb83b81ee7ddcba9ed"
+		},
+		{
+			"id" : "glewinfo::@04fb83b81ee7ddcba9ed"
+		},
+		{
+			"id" : "glew_s::@04fb83b81ee7ddcba9ed"
+		},
+		{
+			"id" : "windows::@6b12294253d412b05e32"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "glew::@04fb83b81ee7ddcba9ed"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

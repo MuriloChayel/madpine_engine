@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\murilo_chayel\Desktop\madpine\madpine_engine\deps\glew\src\glewinfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\murilo_chayel\Desktop\madpine\madpine_engine\deps\glew\build\cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\murilo_chayel\Desktop\madpine\madpine_engine\deps\glew\build\glewinfo.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BC2A6EA7-3622-3989-8C7B-4407C3F49D66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
